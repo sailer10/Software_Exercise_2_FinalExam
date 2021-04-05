@@ -1,0 +1,11 @@
+C:\Users\tpdlf\source\repos\Sosil_FinalExam\Sosil_FinalExam\bin\Debug\Sosil_FinalExam.exe.config
+C:\Users\tpdlf\source\repos\Sosil_FinalExam\Sosil_FinalExam\bin\Debug\Sosil_FinalExam.exe
+C:\Users\tpdlf\source\repos\Sosil_FinalExam\Sosil_FinalExam\bin\Debug\Sosil_FinalExam.pdb
+C:\Users\tpdlf\source\repos\Sosil_FinalExam\Sosil_FinalExam\obj\Debug\Sosil_FinalExam.csprojAssemblyReference.cache
+C:\Users\tpdlf\source\repos\Sosil_FinalExam\Sosil_FinalExam\obj\Debug\Sosil_FinalExam.Form1.resources
+C:\Users\tpdlf\source\repos\Sosil_FinalExam\Sosil_FinalExam\obj\Debug\Sosil_FinalExam.Properties.Resources.resources
+C:\Users\tpdlf\source\repos\Sosil_FinalExam\Sosil_FinalExam\obj\Debug\Sosil_FinalExam.csproj.GenerateResource.cache
+C:\Users\tpdlf\source\repos\Sosil_FinalExam\Sosil_FinalExam\obj\Debug\Sosil_FinalExam.csproj.CoreCompileInputs.cache
+C:\Users\tpdlf\source\repos\Sosil_FinalExam\Sosil_FinalExam\obj\Debug\Sosil_FinalExam.exe
+C:\Users\tpdlf\source\repos\Sosil_FinalExam\Sosil_FinalExam\obj\Debug\Sosil_FinalExam.pdb
+C:\Users\tpdlf\source\repos\Sosil_FinalExam\Sosil_FinalExam\obj\Debug\Sosil_FinalExam.result.resources
